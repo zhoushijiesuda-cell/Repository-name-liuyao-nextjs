@@ -670,9 +670,9 @@ export default function Page() {
                 <BookOpen size={14} />
                 决策分析界面
               </div>
-              <div style={{ marginTop: 14, fontSize: 38, fontWeight: 900, letterSpacing: "-0.04em", color: "#0f172a" }}>六爻决策分析系统</div>
+              <div style={{ marginTop: 14, fontSize: 38, fontWeight: 900, letterSpacing: "-0.04em", color: "#0f172a" }}>六爻</div>
               <div style={{ marginTop: 10, fontSize: 15, color: "#6b7280", maxWidth: 780, lineHeight: 1.8 }}>
-                保留完整排盘逻辑，但界面只呈现对决策最有用的内容：结论、风险、节奏和触发点。页面不展示任何 AI 字样。
+               
               </div>
             </div>
             <div style={{ padding: "10px 14px", borderRadius: 16, background: "#0f172a", color: "#ffffff", fontSize: 12, fontWeight: 700 }}>
