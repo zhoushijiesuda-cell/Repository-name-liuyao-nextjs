@@ -1,4 +1,6 @@
-"use client";
+from pathlib import Path
+
+code = r'''"use client";
 
 import { useMemo, useState } from "react";
 import {
@@ -906,3 +908,7 @@ export default function Page() {
     </div>
   );
 }
+'''
+path = Path("/mnt/data/page_rewrite_upgrade.tsx")
+path.write_text(code, encoding="utf-8")
+print(path.as_posix())
