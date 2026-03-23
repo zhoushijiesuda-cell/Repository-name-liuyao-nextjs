@@ -671,7 +671,7 @@ export default function Page() {
                 决策分析界面
               </div>
               <div style={{ marginTop: 14, fontSize: 38, fontWeight: 900, letterSpacing: "-0.04em", color: "#0f172a" }}>六爻</div>
-              <div style={{ marginTop: 10, fontSize: 15, color: "#6b7280", maxWidth: 780, lineHeight: 1.8 }}>
+              
                
               </div>
             </div>
